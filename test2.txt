@@ -9,6 +9,7 @@ test2
 <ul>
 <li>GIT이란</li>
 <li>버전2</li>
+<li>마스터</li>
 </ul>
 </body>
 </html>
