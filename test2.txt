@@ -1,5 +1,7 @@
 <html>
-<head></head>
+<head>
+<title>GIT ¼Ò°³</title>
+</head>
 <body>
 <h1>
 test2
