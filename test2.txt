@@ -5,6 +5,7 @@ test2
 </h1>
 <ul>
 <li>GIT이란</li>
+<li>버전2</li>
 </ul>
 </body>
 </html>
